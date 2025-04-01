@@ -1,5 +1,6 @@
 # RiskManagement
 Am interrested in becoming a quant so will be trying some new stuff
+My bad for lack of comments lol, if i revisit it might add some
 
 # Risk Management System
 
